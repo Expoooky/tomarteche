@@ -1,12 +1,14 @@
-# Tom Arteche
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Tom+Arteche;Full-Stack+Developer;Building+Web+Apps+and+Systems;SaaS+and+Developer+Tools" />
+</p>
 
-Full-Stack Software and Web Developer focused on building scalable, efficient, and user-friendly applications. I enjoy creating systems that solve real business problems, from logistics portals to developer tools and SaaS platforms.
+<h1 align="center">Tom Arteche</h1>
 
----
+<p align="center">
+Full-Stack Web and Software Developer focused on building scalable applications, business systems, and modern web tools.
+</p>
 
-## Links
-
-<p>
+<p align="center">
 
 <a href="https://tomarteche.dev">
 <img src="https://img.shields.io/badge/Portfolio-tomarteche.dev-black?style=for-the-badge&logo=vercel"/>
@@ -16,25 +18,30 @@ Full-Stack Software and Web Developer focused on building scalable, efficient, a
 <img src="https://img.shields.io/badge/GitHub-expoooky-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://tomarteche.dev">
-<img src="https://img.shields.io/badge/Projects-View%20Portfolio-blue?style=for-the-badge&logo=googlechrome"/>
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-## About Me
+## About
 
-* IT graduate from Quezon City University
-* Software and Web Developer
-* Experienced in building ERP-style business systems
-* Interested in SaaS products, APIs, and developer tools
-* Focused on clean architecture and practical system design
+I am a Full-Stack Developer focused on building practical software solutions and scalable web applications. I enjoy creating systems that solve real-world business problems, from internal business portals to modern web applications and developer tools.
+
+* IT Graduate — Quezon City University
+* Experience building ERP-style business systems
+* Focused on clean architecture and performance
+* Interested in SaaS, APIs, and automation systems
 
 ---
 
 ## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,java,python,mysql,git" />
+</p>
 
 **Languages**
 
@@ -48,9 +55,29 @@ ASP.NET MVC • Node.js • Express.js • React • HTML • CSS
 
 MSSQL • MySQL
 
-**Tools**
+---
 
-Git • GitHub • REST APIs • Agile Development
+## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=expoooky)
+<p align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=expoooky&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://streak-stats.demolab.com?user=expoooky&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Current Focus
+
+* SaaS platforms
+* API-based services
+* automation tools
+* real-time applications
+
+---
+
+## Portfolio
+
+https://tomarteche.dev
