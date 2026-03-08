@@ -4,7 +4,7 @@ Full-Stack Software and Web Developer focused on building scalable, efficient, a
 
 ---
 
-## Connect
+## Links
 
 <p>
 
@@ -52,34 +52,3 @@ MSSQL • MySQL
 
 Git • GitHub • REST APIs • Agile Development
 
----
-
-## Projects
-
-**M-Prime Logistics Portal**
-A logistics and warehouse management system designed around real business workflows.
-
-**AI Live Audio Transcription Tool**
-A real-time speech-to-text tool that converts spoken audio into live transcription.
-
-**QCU Voting System**
-A desktop-based election management system built using VB.NET and MSSQL with automated vote tallying and voter authentication.
-
----
-
-## Current Focus
-
-* SaaS platforms
-* API-based services
-* Business automation systems
-* Real-time applications
-
----
-
-## Links
-
-Portfolio
-https://tomarteche.dev
-
-GitHub
-https://github.com/expoooky
