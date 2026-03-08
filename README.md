@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Tom+Arteche;Full-Stack+Developer;Building+Web+Apps+and+Systems;SaaS+and+Developer+Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Web+Apps+and+Systems" />
 </p>
 
 <h1 align="center">Tom Arteche</h1>
@@ -76,8 +76,3 @@ MSSQL • MySQL
 * automation tools
 * real-time applications
 
----
-
-## Portfolio
-
-https://tomarteche.dev
